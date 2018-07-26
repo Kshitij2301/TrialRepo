@@ -35,7 +35,7 @@ ul li{
 /*Main Css starts*/
 
 .wrapper{
-	width:960px;
+	width:920px;
 	margin:0 auto;
 }
 
@@ -46,8 +46,8 @@ ul li{
 
 .logo h1 a{
 	display:block;
-	width:256px;
-	height:147px;
+	width:250px;
+	height:150px;
 	background:url(../images/gonzo.png) no-repeat;
 	margin:0 auto;
 	text-indent:-99999px;
@@ -93,7 +93,7 @@ ul li{
 	height:300px !important;
 	width:575px;
 	margin:30px auto 0px;
-   	left: 18px;
+   	left: 16px;
     position: relative;
 }
 
